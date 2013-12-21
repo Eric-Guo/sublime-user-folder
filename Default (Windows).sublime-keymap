@@ -1,4 +1,18 @@
 [
+	{ "keys": ["ctrl+k", "ctrl+m"], "command": "set_mark" },
+	{ "keys": ["alt+shift+c"], "command": "toggle_case_sensitive", "context":
+		[
+			{ "key": "setting.is_widget", "operator": "equal", "operand": true }
+		]
+	},
+	{ "keys": ["alt+c"], "command": "auto_complete" },
+	{ "keys": ["alt+c"], "command": "replace_completion_with_auto_complete", "context":
+		[
+			{ "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": false },
+			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+		]
+	},
 	{ "keys": ["super+ctrl+alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
 	{ "keys": ["ctrl+shift+o"], "command": "related_files"},
 	{ "keys": ["ctrl+shift+."], "command": "erb", "context":
