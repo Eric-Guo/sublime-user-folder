@@ -1,7 +1,7 @@
 {
 	"close_windows_when_empty": true,
-	"theme": "Spacegray.sublime-theme",
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"theme": "Spacegray Eighties.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"detect_slow_plugins": false,
 	"font_face": "Source Code Pro",
 	"font_size": 10.0,
