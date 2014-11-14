@@ -1,7 +1,7 @@
 {
+	"caret_extra_width": 2,
 	"close_windows_when_empty": true,
-	"theme": "Spacegray Eighties.sublime-theme",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
 	"detect_slow_plugins": false,
 	"font_face": "Source Code Pro",
 	"font_size": 10.0,
@@ -11,6 +11,7 @@
 	],
 	"save_on_focus_lost": true,
 	"show_line_endings": true,
+	"theme": "Seti.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false
 }
