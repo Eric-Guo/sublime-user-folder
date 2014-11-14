@@ -1,7 +1,7 @@
 {
-	"caret_extra_width": 2,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"Seti_tabs_small": true,
 	"detect_slow_plugins": false,
 	"font_face": "Source Code Pro",
 	"font_size": 10.0,
