@@ -1,9 +1,16 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AlignTab",
 		"ApplySyntax",
-		"ERB Insert and Toggle Commands",
 		"Evernote",
 		"Gem Browser",
 		"IMESupport",
@@ -11,6 +18,7 @@
 		"Related Files",
 		"RSpec",
 		"Seti_UI",
+		"SublimeERB",
 		"Theme - Spacegray"
 	]
 }
