@@ -21,6 +21,7 @@
 		"SublimeERB",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-haml",
 		"SublimeLinter-jshint",
 		"SublimeLinter-ruby",
