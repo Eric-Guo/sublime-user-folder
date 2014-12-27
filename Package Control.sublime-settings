@@ -19,6 +19,8 @@
 		"RSpec",
 		"Seti_UI",
 		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Theme - Spacegray"
 	]
 }

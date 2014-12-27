@@ -1,7 +1,7 @@
 {
 	"Seti_tabs_small": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
 	"detect_slow_plugins": false,
 	"font_face": "Source Code Pro",
 	"font_size": 10.0,
