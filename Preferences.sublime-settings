@@ -7,8 +7,8 @@
 	"font_size": 10.0,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"save_on_focus_lost": true,
 	"show_line_endings": true,
