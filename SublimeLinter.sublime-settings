@@ -41,6 +41,16 @@
 				[
 				]
 			},
+			"rubocop":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"ruby":
 			{
 				"@disable": false,
@@ -103,7 +113,7 @@
 			"php": "html",
 			"python django": "python"
 		},
-		"warning_color": "DDB700",
+		"warning_color": "B39400",
 		"wrap_find": true
 	}
 }
