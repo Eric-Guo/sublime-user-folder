@@ -22,7 +22,7 @@
 		"Seti_UI",
 		"SublimeERB",
 		"SublimeLinter",
-		"SublimeLinter-coffee",
+		"SublimeLinter-coffeelint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-haml",
 		"SublimeLinter-jshint",
