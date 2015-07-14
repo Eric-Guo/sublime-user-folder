@@ -21,6 +21,16 @@
 				[
 				]
 			},
+			"coffeelint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"haml":
 			{
 				"@disable": false,
