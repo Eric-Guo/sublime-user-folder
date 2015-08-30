@@ -1,5 +1,6 @@
 {
 	"Seti_tabs_small": true,
+	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
 	"detect_slow_plugins": false,
@@ -31,8 +32,8 @@
 	"font_size": 10.0,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"save_on_focus_lost": true,
 	"show_line_endings": true,
