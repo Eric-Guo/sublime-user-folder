@@ -31,6 +31,16 @@
 				[
 				]
 			},
+			"eslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"haml":
 			{
 				"@disable": false,
@@ -43,7 +53,7 @@
 			},
 			"jshint":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
