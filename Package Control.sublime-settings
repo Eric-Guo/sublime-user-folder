@@ -29,7 +29,6 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-haml",
-		"SublimeLinter-jshint",
 		"SublimeLinter-rubocop",
 		"Theme - Spacegray"
 	]

@@ -51,16 +51,6 @@
 				[
 				]
 			},
-			"jshint":
-			{
-				"@disable": true,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
 			"rubocop":
 			{
 				"@disable": false,
