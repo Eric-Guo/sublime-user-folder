@@ -2,7 +2,7 @@
 	"Seti_tabs_small": true,
 	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
 	"detect_slow_plugins": false,
 	"file_exclude_patterns":
 	[
