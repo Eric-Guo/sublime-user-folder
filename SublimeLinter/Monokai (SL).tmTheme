@@ -403,9 +403,9 @@
 
 	<dict>
             <key>name</key>
-            <string>SublimeLinter Gutter Mark</string>
+            <string>SublimeLinter Warning</string>
             <key>scope</key>
-            <string>sublimelinter.gutter-mark</string>
+            <string>sublimelinter.mark.warning</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -413,9 +413,9 @@
             </dict>
         </dict><dict>
             <key>name</key>
-            <string>SublimeLinter Error</string>
+            <string>SublimeLinter Gutter Mark</string>
             <key>scope</key>
-            <string>sublimelinter.mark.error</string>
+            <string>sublimelinter.gutter-mark</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -423,9 +423,9 @@
             </dict>
         </dict><dict>
             <key>name</key>
-            <string>SublimeLinter Warning</string>
+            <string>SublimeLinter Error</string>
             <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
+            <string>sublimelinter.mark.error</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
