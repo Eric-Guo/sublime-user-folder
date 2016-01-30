@@ -1,5 +1,6 @@
 [
 	{ "keys": ["ctrl+k", "ctrl+m"], "command": "set_mark" },
+	{ "keys": ["ctrl+alt+w"], "command": "prompt_select_workspace" },
 	{ "keys": ["alt+shift+c"], "command": "toggle_case_sensitive", "context":
 		[
 			{ "key": "setting.is_widget", "operator": "equal", "operand": true }
