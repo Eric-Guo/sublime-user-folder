@@ -12,11 +12,14 @@
 	],
 	"folder_exclude_patterns":
 	[
+		".idea",
 		".svn",
 		".git",
 		".hg",
 		"CVS",
 		"dist",
+		"log",
+		"pkg",
 		"node_modules",
 		"tmp/class-*",
 		"tmp/es_*",
