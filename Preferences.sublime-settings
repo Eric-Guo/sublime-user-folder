@@ -16,6 +16,7 @@
 		".svn",
 		".git",
 		".hg",
+		"_build",
 		"CVS",
 		"dist",
 		"log",
