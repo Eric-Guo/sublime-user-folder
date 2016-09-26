@@ -8,7 +8,8 @@
 	"file_exclude_patterns":
 	[
 		"*.sublime-workspace",
-		".gitkeep"
+		".gitkeep",
+		".DS_Store"
 	],
 	"folder_exclude_patterns":
 	[
