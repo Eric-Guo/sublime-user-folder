@@ -18,6 +18,7 @@
 		".git",
 		".hg",
 		"_build",
+		"build",
 		"CVS",
 		"dist",
 		"log",
