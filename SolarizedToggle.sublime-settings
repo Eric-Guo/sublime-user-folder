@@ -1,8 +1,8 @@
 {
 	"color_scheme_dark": "Packages/Seti_UX/Seti.tmTheme",
 	"color_scheme_light": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"enable_theme_switching": true,
 	"solarized_toggle_mode": "dark",
-  "enable_theme_switching": true,
 	"theme_dark": "Seti.sublime-theme",
 	"theme_light": "Default.sublime-theme"
 }
