@@ -3,5 +3,5 @@
 	"color_scheme_light": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"solarized_toggle_mode": "dark",
 	"theme_dark": "Seti.sublime-theme",
-	"theme_light": ""
+	"theme_light": "Default.sublime-theme"
 }
