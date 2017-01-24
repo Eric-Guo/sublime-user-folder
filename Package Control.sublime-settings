@@ -36,6 +36,7 @@
 		"SublimeLinter-coffeelint",
 		"SublimeLinter-contrib-elixirc",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-govet",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-haml",
 		"SublimeLinter-rubocop"
