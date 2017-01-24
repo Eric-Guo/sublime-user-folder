@@ -3,3 +3,4 @@ Package Control.last-run
 *.cache
 encoding_cache.json
 Package Control.merged-ca-bundle
+oscrypto-ca-bundle.crt
