@@ -27,6 +27,7 @@
 		"pkg",
 		"node_modules",
 		"priv/static",
+		"tmp/cache",
 		"tmp/class-*",
 		"tmp/es_*",
 		"tmp/jshinter*",
