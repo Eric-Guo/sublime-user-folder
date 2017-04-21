@@ -5,6 +5,7 @@
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
 	"detect_slow_plugins": false,
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		"*.sublime-workspace",
@@ -50,10 +51,9 @@
 	],
 	"save_on_focus_lost": true,
 	"show_line_endings": true,
-	"theme": "Seti.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
 	"tab_size": 2,
+	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"ensure_newline_at_eof_on_save": true,
+	"trim_trailing_white_space_on_save": true,
 	"update_check": false
 }
