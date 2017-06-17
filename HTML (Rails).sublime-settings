@@ -2,7 +2,7 @@
 	"extensions":
 	[
 		"rails",
-		"erb",
-		"html.erb"
+		"html.erb",
+		"erb"
 	]
 }
