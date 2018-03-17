@@ -35,6 +35,7 @@
 		"SublimeLinter-coffeelint",
 		"SublimeLinter-contrib-elixirc",
 		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-contrib-yamllint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-govet",
 		"SublimeLinter-haml",
