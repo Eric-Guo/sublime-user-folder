@@ -39,6 +39,7 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-govet",
 		"SublimeLinter-haml",
+		"SublimeLinter-haml-lint",
 		"SublimeLinter-rubocop"
 	]
 }
