@@ -15,15 +15,6 @@
       "args": [],
       "excludes": []
     },
-    "elixirc":
-    {
-      "@disable": false,
-      "args": [],
-      "excludes": [],
-      "include_dirs": [],
-      "mix": false,
-      "pa":[]
-    },
     "eslint":
     {
       "@disable": false,
