@@ -50,11 +50,11 @@
 		"IMESupport"
 	],
 	"save_on_focus_lost": true,
+	"show_git_status": false,
 	"show_line_endings": true,
 	"tab_size": 2,
 	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"show_git_status": false,
 	"update_check": false
 }
