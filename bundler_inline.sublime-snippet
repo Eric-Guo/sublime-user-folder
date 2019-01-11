@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+require 'bundler/inline'
+
+gemfile do
+  source 'https://rubygems.org'
+end
+]]></content>
+  <tabTrigger>bundler</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
