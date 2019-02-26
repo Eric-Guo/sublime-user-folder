@@ -20,7 +20,6 @@
 		"Package Control",
 		"Related Files",
 		"RSpec",
-		"Ruby Slim",
 		"Sass",
 		"Seti_UI",
 		"Seti_UX",
@@ -31,7 +30,6 @@
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-contrib-yamllint",
 		"SublimeLinter-govet",
-		"SublimeLinter-haml-lint",
 		"SublimeLinter-rubocop"
 	]
 }
