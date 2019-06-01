@@ -20,6 +20,7 @@
 		".git",
 		".gradle",
 		".hg",
+		".temp",
 		"_build",
 		"build/intermediates",
 		"build/generated",
