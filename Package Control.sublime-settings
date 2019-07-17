@@ -29,6 +29,7 @@
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-contrib-yamllint",
 		"SublimeLinter-govet",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-rubocop",
+		"TabNine"
 	]
 }

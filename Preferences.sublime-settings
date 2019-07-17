@@ -1,6 +1,7 @@
 {
 	"Seti_sb_tree_tiny": true,
 	"Seti_tabs_small": true,
+	"auto_complete": false,
 	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
