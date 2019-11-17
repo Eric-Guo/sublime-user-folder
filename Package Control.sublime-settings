@@ -31,8 +31,6 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-govet",
 		"SublimeLinter-rubocop",
-		"SublimeLinter-tslint",
-		"TabNine",
-		"TypeScript"
+		"TabNine"
 	]
 }
