@@ -44,7 +44,7 @@
 		"tmp/export_tree*",
 		"tmp/sass_compiler*"
 	],
-	"font_face": "Source Code Pro",
+	"font_face": "JetBrains Mono",
 	"font_size": 12,
 	"ignored_packages":
 	[
