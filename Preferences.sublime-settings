@@ -57,6 +57,6 @@
 	"trim_trailing_white_space_on_save": true,
 	"ui_native_titlebar": true,
 	"ui_separator": true,
-	"ui_wide_scrollbars": true,
+	"ui_wide_scrollbars": false,
 	"update_check": false
 }
