@@ -1,10 +1,8 @@
 {
-	"Seti_sb_tree_tiny": true,
-	"Seti_tabs_small": true,
 	"auto_complete": false,
 	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -54,7 +52,7 @@
 	"save_on_focus_lost": true,
 	"show_line_endings": true,
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false
