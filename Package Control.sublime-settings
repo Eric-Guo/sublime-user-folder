@@ -5,8 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AlignTab",
 		"ApplySyntax",
+		"ayu",
 		"Babel",
 		"Codecs33",
 		"Conda",
