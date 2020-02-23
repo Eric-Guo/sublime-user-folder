@@ -1,0 +1,26 @@
+[
+  {
+    "class": "sidebar_label",
+    "font.face": "Sarasa Mono SC"
+  },
+  {
+    "class": "sidebar_heading",
+    "font.face": "Sarasa Mono SC"
+  },
+  {
+    "class": "tab_label",
+    "font.face": "Sarasa Mono SC"
+  },
+  {
+    "class": "label_control",
+    "font.face": "Sarasa Mono SC"
+  },
+  {
+    "class": "quick_panel_label",
+    "font.face": "Sarasa Mono SC"
+  },
+  {
+    "class": "quick_panel_path_label",
+    "font.face": "Sarasa Mono SC"
+  }
+]

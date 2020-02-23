@@ -2,7 +2,7 @@
 	"auto_complete": false,
 	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -51,7 +51,7 @@
 	"save_on_focus_lost": true,
 	"show_line_endings": true,
 	"tab_size": 2,
-	"theme": "ayu-mirage.sublime-theme",
+	"theme": "ayu-dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"ui_native_titlebar": true,
