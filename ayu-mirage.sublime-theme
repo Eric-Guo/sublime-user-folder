@@ -1,5 +1,49 @@
 [
   {
+    "class": "title_bar",
+    "bg": "#0f1420"
+  },
+  {
+    "class": "sidebar_container",
+    "layer0.tint": "#0f1420"
+  },
+  {
+    "class": "icon_folder",
+    "layer0.tint": "#0f1420"
+  },
+  {
+    "class": "tabset_control",
+    "layer0.tint": "#0f1420"
+  },
+  {
+    "class": "panel_control",
+    "layer0.tint": "#0f1420"
+  },
+  {
+    "class": "dialog",
+    "layer0.tint": "#0f1420"
+  },
+  {
+    "class": "progress_bar_control",
+    "layer0.tint": "#0f1420"
+  },
+  {
+    "class": "scroll_bar_control",
+    "layer0.tint": "#0f1420"
+  },
+  {
+    "class": "scroll_track_control",
+    "layer0.tint": "#0f1420"
+  },
+  {
+    "class": "scroll_corner_control",
+    "layer0.tint": "#0f1420"
+  },
+  {
+    "class": "tool_tip_control",
+    "layer0.tint": "#0f1420"
+  },
+  {
     "class": "sidebar_label",
     "font.face": "Sarasa Mono SC"
   },
