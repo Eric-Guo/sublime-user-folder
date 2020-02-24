@@ -55,7 +55,7 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"ui_native_titlebar": true,
-	"ui_separator": true,
+	"ui_separator": false,
 	"ui_wide_scrollbars": false,
 	"update_check": false
 }
