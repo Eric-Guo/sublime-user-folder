@@ -9,7 +9,7 @@
   },
   {
     "class": "tabset_control",
-    "tab_height": 28,
+    "tab_height": 30,
     "layer0.tint": "#0d1218"
   },
   {
@@ -38,13 +38,16 @@
     "layer0.tint": "#0d1218"
   },
   {
+    "class": "tab_control",
+    "content_margin": [6,-3,3,0]
+  },
+  {
     "class": "icon_case",
     "content_margin": [2,2]
   },
   {
     "class": "status_bar",
-    "layer0.tint": "#1f2430",
-    "content_margin": [12,3]
+    "content_margin": [12,1]
   },
   {
     "class": "tool_tip_control",
