@@ -1,41 +1,41 @@
 [
   {
     "class": "sidebar_container",
-    "layer0.tint": "#0f1420"
+    "layer0.tint": "#0d1218"
   },
   {
     "class": "icon_folder",
-    "layer0.tint": "#0f1420"
+    "layer0.tint": "#0d1218"
   },
   {
     "class": "tabset_control",
     "tab_height": 28,
-    "layer0.tint": "#0f1420"
+    "layer0.tint": "#0d1218"
   },
   {
     "class": "panel_control",
-    "layer0.tint": "#0f1420",
+    "layer0.tint": "#0d1218",
     "content_margin": [0,1]
   },
   {
     "class": "dialog",
-    "layer0.tint": "#0f1420"
+    "layer0.tint": "#0d1218"
   },
   {
     "class": "progress_bar_control",
-    "layer0.tint": "#0f1420"
+    "layer0.tint": "#0d1218"
   },
   {
     "class": "scroll_bar_control",
-    "layer0.tint": "#0f1420"
+    "layer0.tint": "#0d1218"
   },
   {
     "class": "scroll_track_control",
-    "layer0.tint": "#0f1420"
+    "layer0.tint": "#0d1218"
   },
   {
     "class": "scroll_corner_control",
-    "layer0.tint": "#0f1420"
+    "layer0.tint": "#0d1218"
   },
   {
     "class": "icon_case",
@@ -48,7 +48,7 @@
   },
   {
     "class": "tool_tip_control",
-    "layer0.tint": "#0f1420"
+    "layer0.tint": "#0d1218"
   },
   {
     "class": "sidebar_label",

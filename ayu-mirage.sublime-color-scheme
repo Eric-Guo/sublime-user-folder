@@ -1,8 +1,8 @@
 {
   "globals": {
-    "background": "#0f1420", // replace 1f2430
-    "gutter": "#0f1420",
-    "find_highlight_foreground": "#0f1420",
-    "shadow": "#0f14204d",
+    "background": "#0d1218", // replace 1f2430
+    "gutter": "#0d1218",
+    "find_highlight_foreground": "#0d1218",
+    "shadow": "#0d12184d",
   }
 }
