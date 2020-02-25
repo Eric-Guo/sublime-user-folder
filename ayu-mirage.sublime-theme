@@ -1,9 +1,5 @@
 [
   {
-    "class": "title_bar",
-    "bg": "#0f1420"
-  },
-  {
     "class": "sidebar_container",
     "layer0.tint": "#0f1420"
   },
@@ -13,12 +9,13 @@
   },
   {
     "class": "tabset_control",
-    "tab_height": 30,
+    "tab_height": 28,
     "layer0.tint": "#0f1420"
   },
   {
     "class": "panel_control",
-    "layer0.tint": "#0f1420"
+    "layer0.tint": "#0f1420",
+    "content_margin": [0,1]
   },
   {
     "class": "dialog",
@@ -41,9 +38,13 @@
     "layer0.tint": "#0f1420"
   },
   {
+    "class": "icon_case",
+    "content_margin": [2,2]
+  },
+  {
     "class": "status_bar",
     "layer0.tint": "#1f2430",
-    "content_margin": [8,1]
+    "content_margin": [12,3]
   },
   {
     "class": "tool_tip_control",
