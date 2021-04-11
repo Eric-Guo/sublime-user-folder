@@ -1,0 +1,32 @@
+[
+    {
+        "caption": "Project",
+        "id": "project",
+        "mnemonic": "P",
+        "children":
+        [
+            {
+                "caption": "Open Recent More",
+                "children":
+                [
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 0 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 1 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 2 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 3 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 4 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 5 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 6 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 7 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 8 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 9 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 10 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 11 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 12 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 13 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 14 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 15 } }
+                ]
+            },
+        ]
+    }
+]
