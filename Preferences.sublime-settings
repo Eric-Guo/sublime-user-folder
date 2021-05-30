@@ -47,6 +47,7 @@
 	"ignored_packages":
 	[
 	],
+	"index_exclude_gitignore": true,
 	"save_on_focus_lost": true,
 	"show_line_endings": true,
 	"tab_size": 2,
