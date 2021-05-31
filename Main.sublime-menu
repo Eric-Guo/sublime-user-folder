@@ -24,7 +24,12 @@
                     { "command": "open_recent_project_or_workspace", "args": {"index": 12 } },
                     { "command": "open_recent_project_or_workspace", "args": {"index": 13 } },
                     { "command": "open_recent_project_or_workspace", "args": {"index": 14 } },
-                    { "command": "open_recent_project_or_workspace", "args": {"index": 15 } }
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 15 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 16 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 17 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 18 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 19 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 20 } },
                 ]
             },
         ]
