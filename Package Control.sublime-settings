@@ -32,6 +32,5 @@
 		"SublimeLinter-rubocop",
 		"Tabnine",
 		"Tailwind CSS Autocomplete",
-		"TypeScript",
 	],
 }
