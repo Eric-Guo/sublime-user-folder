@@ -1,6 +1,6 @@
-# sublime3-user-folder
+# sublime-user-folder
 
-My Sublime Text 3 user folder content
+My Sublime Text user folder content
 
 # Installation
 
@@ -9,10 +9,10 @@ My Sublime Text 3 user folder content
 2. run:
 
 ```bash
-cd '/Users/guochunzhong/Library/Application Support/Sublime Text 3/Packages'
-git clone git@github.com:Eric-Guo/sublime3-user-folder.git
+cd '/Users/guochunzhong/Library/Application Support/Sublime Text/Packages'
+git clone git@github.com:Eric-Guo/sublime-user-folder.git
 rm -rf User
-mv sublime3-user-folder User
+mv sublime-user-folder User
 ```
 
 3. Open sublime and running `Update Package`
