@@ -30,6 +30,7 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-govet",
 		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
 		"Tabnine",
 		"Tailwind CSS Autocomplete",
 	],
