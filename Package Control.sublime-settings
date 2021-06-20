@@ -32,6 +32,6 @@
 		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
 		"Tabnine",
-		"Tailwind CSS Autocomplete",
+		"Tailwind CSS",
 	],
 }
