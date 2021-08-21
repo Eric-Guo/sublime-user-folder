@@ -1,5 +1,5 @@
 [
-  { "keys": ["ctrl+alt+w"], "command": "prompt_select_workspace" },
+  { "keys": ["ctrl+super+p"], "command": "prompt_select_workspace" },
   { "keys": ["ctrl+shift+o"], "command": "related_files"},
   { "keys": ["super+,"], "command": "noop" },
   { "keys": ["ctrl+super+h"], "command": "dash_doc"},
