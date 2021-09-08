@@ -47,6 +47,7 @@
 	"hardware_acceleration": "opengl",
 	"ignored_packages":
 	[
+		"Vintage",
 	],
 	"index_exclude_gitignore": true,
 	"save_on_focus_lost": true,
