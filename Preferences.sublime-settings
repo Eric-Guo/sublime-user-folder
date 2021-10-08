@@ -10,7 +10,8 @@
 		"*.sublime-workspace",
 		"*.exe",
 		".gitkeep",
-		".DS_Store"
+		".DS_Store",
+		"puma-dev-*.sock",
 	],
 	"folder_exclude_patterns":
 	[
@@ -29,6 +30,8 @@
 		"pkg",
 		"node_modules",
 		"priv/static",
+		"tmp/attachments",
+		"tmp/blade",
 		"tmp/cache",
 		"tmp/class-*",
 		"tmp/es_*",
