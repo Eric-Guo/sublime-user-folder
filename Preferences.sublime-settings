@@ -29,7 +29,6 @@
 		"build/intermediates",
 		"build/generated",
 		"CVS",
-		"dist",
 		"log",
 		"pkg",
 		"node_modules",
