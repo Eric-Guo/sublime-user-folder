@@ -1,5 +1,5 @@
 {
-	"auto_complete": false,
+	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
