@@ -13,6 +13,7 @@
 		"*.class",
 		".gitkeep",
 		".DS_Store",
+		"coverage.out",
 		"puma-dev-*.sock",
 	],
 	"folder_exclude_patterns":
