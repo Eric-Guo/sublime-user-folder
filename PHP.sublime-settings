@@ -2,9 +2,9 @@
 	"extensions":
 	[
 		"php4",
-		"php3",
-		"phtml",
 		"php5",
-		"inc"
-	]
+		"phtml",
+		"php3",
+		"inc",
+	],
 }
