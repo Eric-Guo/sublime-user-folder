@@ -56,7 +56,7 @@
 		"tmp/export_tree*",
 		"tmp/sass_compiler*"
 	],
-	"font_face": "JetBrains Mono",
+	"font_face": "Martian Mono Lt",
 	"font_size": 12,
 	"hardware_acceleration": "opengl",
 	"ignored_packages":
