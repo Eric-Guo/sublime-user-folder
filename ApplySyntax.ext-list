@@ -181,4 +181,8 @@
 		"simplecov",
 		"thor"
 	],
+	"HAML":
+	[
+		"haml"
+	],
 }
