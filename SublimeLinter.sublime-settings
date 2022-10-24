@@ -30,7 +30,7 @@
     "rubocop":
     {
       "@disable": false,
-      "args": [],
+      "args": ["--config", "/opt/homebrew/lib/ruby/gems/3.1.0/gems/standard-1.16.1/config/ruby-3.0.yml"],
       "excludes": []
     },
     "ruby":
