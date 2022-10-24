@@ -5,7 +5,7 @@
   { "keys": ["ctrl+super+h"], "command": "dash_doc"},
   { "keys": ["ctrl+shift+."], "command": "erb", "context":
     [
-      { "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee" }
+      { "key": "selector", "operator": "equal", "operand": "text.html.rails, text.html.ruby, text.haml, source.yaml, source.js" }
     ]
   }
 ]
