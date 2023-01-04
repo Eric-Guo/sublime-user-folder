@@ -28,7 +28,6 @@
 		"SublimeLinter-govet",
 		"SublimeLinter-haml-lint",
 		"SublimeLinter-rubocop",
-		"SublimeLinter-ruby",
 		"Tabnine",
 		"Tailwind CSS",
 	],
