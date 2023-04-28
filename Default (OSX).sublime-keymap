@@ -3,6 +3,8 @@
   { "keys": ["ctrl+shift+o"], "command": "related_files"},
   { "keys": ["super+,"], "command": "noop" },
   { "keys": ["ctrl+super+h"], "command": "dash_doc"},
+  { "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+  { "keys": ["alt+shift+down"], "command": "duplicate_line" },
   { "keys": ["ctrl+shift+."], "command": "erb", "context":
     [
       { "key": "selector", "operator": "equal", "operand": "text.html.rails, text.html.ruby, source.ruby.rails, text.haml, source.yaml, source.js" }
