@@ -3,7 +3,9 @@
   { "keys": ["ctrl+shift+o"], "command": "related_files"},
   { "keys": ["super+,"], "command": "noop" },
   { "keys": ["ctrl+super+h"], "command": "dash_doc"},
+  { "keys": ["ctrl+shift+k"], "command": "noop" },
   { "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+  { "keys": ["super+shift+d"], "command": "noop" },
   { "keys": ["alt+shift+down"], "command": "duplicate_line" },
   { "keys": ["ctrl+shift+."], "command": "erb", "context":
     [
