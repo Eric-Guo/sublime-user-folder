@@ -29,6 +29,5 @@
 		"SublimeLinter-haml-lint",
 		"SublimeLinter-rubocop",
 		"Tabnine",
-		"Tailwind CSS",
 	],
 }
