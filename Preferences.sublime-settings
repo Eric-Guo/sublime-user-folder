@@ -73,4 +73,5 @@
 	"ui_separator": false,
 	"ui_wide_scrollbars": false,
 	"update_check": false,
+	"index_files": true,
 }
