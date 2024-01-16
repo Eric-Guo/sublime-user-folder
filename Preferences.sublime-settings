@@ -18,6 +18,7 @@
 	],
 	"folder_exclude_patterns":
 	[
+		".angular",
 		".bridgetown-cache",
 		".bridgetown-webpack",
 		".idea",
