@@ -74,6 +74,6 @@
 	"ui_native_titlebar": true,
 	"ui_separator": false,
 	"ui_wide_scrollbars": false,
-	"update_check": false,
+	"update_check": true,
 	"index_files": true,
 }
