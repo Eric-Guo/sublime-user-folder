@@ -63,7 +63,6 @@
 	"hardware_acceleration": "opengl",
 	"ignored_packages":
 	[
-		"A File Icon",
 		"Vintage",
 	],
 	"index_exclude_gitignore": true,
