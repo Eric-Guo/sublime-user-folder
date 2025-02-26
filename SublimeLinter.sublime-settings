@@ -31,7 +31,8 @@
     {
       "@disable": false,
       "args": [],
-      "excludes": []
+      "excludes": [],
+      "cmd": "/opt/homebrew/lib/ruby/gems/3.4.0/bin/rubocop"
     },
     "ruby":
     {
