@@ -25,7 +25,6 @@
 		"SublimeLinter-contrib-yamllint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-govet",
-		"SublimeLinter-haml-lint",
 		"SublimeLinter-rubocop",
 		"Tabnine",
 	],
