@@ -1,3 +1,4 @@
 {
-  "native_auto_complete": true
+  "native_auto_complete": true,
+  "disable_auto_update": true
 }
