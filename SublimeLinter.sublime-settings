@@ -38,7 +38,8 @@
     {
       "@disable": false,
       "args": [],
-      "excludes": []
+      "excludes": [],
+      "cmd": "/opt/homebrew/opt/ruby/bin/ruby"      
     },
     "scss":
     {
