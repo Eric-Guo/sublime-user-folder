@@ -33,7 +33,6 @@
 		"build/generated",
 		"CVS",
 		"log",
-		"pkg",
 		"node_modules",
 		"output",
 		"priv/static",
