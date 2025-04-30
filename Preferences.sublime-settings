@@ -75,5 +75,6 @@
 	"ui_separator": false,
 	"ui_wide_scrollbars": false,
 	"update_check": true,
+	"reload_file_in_background": false,
 	"index_files": true,
 }
