@@ -61,7 +61,6 @@
 	"hardware_acceleration": "opengl",
 	"ignored_packages":
 	[
-		"Tabnine",
 		"Vintage",
 	],
 	"index_exclude_gitignore": true,
